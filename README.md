@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @DucPhuH
+### 👋 Hi, I’m @DucPhuH
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning C, Python, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- 📫 How to reach me nroducphu@gmail.com
 
 <!---
 DucPhuH/DucPhuH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
